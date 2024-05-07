@@ -7,7 +7,7 @@ def menuP(op):
     * MENU PRINCIPAL  *
     *******************
     """
-    menu = '1.Registrar cargos\2.Ingresar empleado\3. Generar desprendible de pago\4.Salir'
+    menu = '1.Registrar cargos\n2.Ingresar empleado\n3. Generar desprendible de pago\n4.Salir'
     if (op != 4):
         print(title)
         print(menu)

@@ -15,4 +15,4 @@ def registroCargo():
         'nombre': nombre
     }
     cargos.AddData('cargo',cod,cargo)
-    globals.cargos
+    globals.cargos.get('cargo').update({cod:cargo})
