@@ -1,0 +1,17 @@
+{
+    "datos": {
+        "1093232423": {
+            "cedula": 1093232423,
+            "nombres": "wilmer",
+            "apellidos": "gelves",
+            "ubicacion": {
+                "ciudad": "cucuta",
+                "longitud": "sdasd",
+                "latitud": "asda"
+            },
+            "email": "asdasd",
+            "edad": 25,
+            "ocupacion": "estudiante"
+        }
+    }
+}

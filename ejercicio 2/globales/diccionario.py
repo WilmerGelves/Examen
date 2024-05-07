@@ -1,0 +1,4 @@
+
+informacion = {
+    'datos':{}
+}
