@@ -1,1 +1,2 @@
-Wilmer Gelves García 
+> [!NOTE]
+>Conceptos básicos de Python.
